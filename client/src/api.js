@@ -1,3 +1,3 @@
-const API = "https://full-stack-development-smart-expense.onrender.com";
+const API = "http://localhost:5000";
 
 export default API;
